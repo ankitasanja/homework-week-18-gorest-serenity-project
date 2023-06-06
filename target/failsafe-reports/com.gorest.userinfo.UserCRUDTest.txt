@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: com.gorest.userinfo.UserCRUDTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in com.gorest.userinfo.UserCRUDTest
+test001(com.gorest.userinfo.UserCRUDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.gorest.userinfo.UserCRUDTest.test001(UserCRUDTest.java:29)
+
+test002(com.gorest.userinfo.UserCRUDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.gorest.userinfo.UserCRUDTest.test002(UserCRUDTest.java:39)
+
+test003(com.gorest.userinfo.UserCRUDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.gorest.userinfo.UserCRUDTest.test003(UserCRUDTest.java:48)
+
+test004(com.gorest.userinfo.UserCRUDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.gorest.userinfo.UserCRUDTest.test004(UserCRUDTest.java:57)
+
